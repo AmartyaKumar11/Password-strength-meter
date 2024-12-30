@@ -48,5 +48,4 @@ The meter displays a visual representation of the password strength, from Weak t
 ## Contribution 🤝
 Feel free to fork this repository and submit pull requests for improvements or new features!
 
-## License 📜
-This project is licensed under the [MIT License](LICENSE).
+
